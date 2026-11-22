@@ -201,6 +201,7 @@
 |--------|-------|--------|
 | **LinkedIn** | شبكة احترافية | [linkedin.com](https://www.linkedin.com) |
 | **Bayt.com** | منصة توظيف عربية | [bayt.com](https://www.bayt.com) |
+| **Techny** | وظائف تقنية في السعودية والإمارات ومصر من صفحات توظيف الشركات مباشرة | [techny.dev](https://techny.dev/?ref=gh-saudi-tech) |
 | **Glassdoor** | تقييمات الشركات | [glassdoor.com](https://www.glassdoor.com) |
 | **Indeed** | منصة توظيف عالمية | [indeed.com](https://www.indeed.com) |
 | **Stack Overflow Jobs** | وظائف تقنية | [stackoverflow.com/jobs](https://stackoverflow.com/jobs) |
