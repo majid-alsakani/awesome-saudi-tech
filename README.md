@@ -87,6 +87,10 @@
 - **برنامج التطوير الريفي** - دعم المشاريع الريفية
 - **برنامج التوظيف** - دعم التوظيف المحلي
 
+### بيانات الشركات الناشئة والتمويل
+
+- **[Techny](https://techny.dev/startups?ref=gh-saudi-tech)** - أكثر من 1000 شركة ناشئة في الشرق الأوسط وشمال أفريقيا: جولات التمويل مع مصدر كل جولة، والمستثمرون، ومن يوظّف الآن.
+
 ---
 
 ## 🛠️ الأدوات والمنصات
@@ -201,6 +205,7 @@
 |--------|-------|--------|
 | **LinkedIn** | شبكة احترافية | [linkedin.com](https://www.linkedin.com) |
 | **Bayt.com** | منصة توظيف عربية | [bayt.com](https://www.bayt.com) |
+| **Techny** | وظائف تقنية في السعودية والإمارات ومصر من صفحات توظيف الشركات مباشرة | [techny.dev](https://techny.dev/?ref=gh-saudi-tech) |
 | **Glassdoor** | تقييمات الشركات | [glassdoor.com](https://www.glassdoor.com) |
 | **Indeed** | منصة توظيف عالمية | [indeed.com](https://www.indeed.com) |
 | **Stack Overflow Jobs** | وظائف تقنية | [stackoverflow.com/jobs](https://stackoverflow.com/jobs) |
